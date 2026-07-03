@@ -19,10 +19,11 @@
 
 <div align="center">
   <a href="https://github.com/denissilvagist"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denissilvagist&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denissilvagist&layout=compact&langs_count=16&theme=dark" />
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=denissilvagist&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denissilvagist&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
+
 ##
 
 <div style="display: inline_block"><br>
