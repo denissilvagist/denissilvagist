@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Denis+Pereira+Da+Silva!;" />
+</h1>
+<h3>Desenvolvedor Fullstack </h3>
+
+##
+
+- 🧑‍💻 Estou cursando técnico de desenvolvimento de Sistemas
+- 💻 Atualmente, estou estudando Python para back-end
+- 📩 Email para contato: denissilva@ce.senac.br
 
 <!--
 **denissilvagist/denissilvagist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
