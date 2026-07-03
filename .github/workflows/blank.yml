@@ -53,4 +53,4 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Exibindo codigo 2.txt…
+
